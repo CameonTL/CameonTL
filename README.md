@@ -2,7 +2,7 @@
 - I’m interested in software support engineering and game design
 - I have a Bechelor's Degree in Computer Science, 2022
 - How to reach me: ctleathers08@gmail.com
-- Currently employed at WellSky
+- Currently employed at WellSky as a Support Analyst
 
 <!---
 CameonTL/CameonTL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
